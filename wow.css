@@ -1,0 +1,25 @@
+body{
+    background-image:url('imag/S__5857325.jpg');
+    background-size: 100% 100% ;   
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    
+}
+.button-button1{
+    width: 200px ;
+    font-size: 20px ;
+    padding: 10px ;
+    border: none;
+    background: red;
+    color: beige;
+    cursor: pointer;
+    
+
+}
+.new{
+    position: fixed;
+    bottom: 0;
+}
+h1{
+   text-align: center;
+}

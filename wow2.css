@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+}
+body{
+    background-image:url('imag/2.jpg');
+    background-size: 100% 100% ;   
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+.new{
+    background: rgba(161, 229, 234, 0.268);
+    width: 100%;
+}
+.button-button1{
+    width: 200px ;
+    font-size: 40px ;
+    padding: 20px ;
+    border: none;
+    background: rgba(30, 143, 155, 0.225);
+    color: beige;
+    cursor: pointer;
+    
+
+}
