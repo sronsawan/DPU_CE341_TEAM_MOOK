@@ -26,14 +26,14 @@ body {
     width: 200px;
     height: 60px;
     margin-top: 20px;
-    background-color: #f74e65;
-    color: #000000;
+    background-color: #1762a8;
+    color: #9714b1;
 }
 
 #imageContainer img {
     max-width: 50%;
     justify-content: center;
-    border: 10px solid #ff7171; /* สีของกรอบ */
+    border: 10px solid #6c2499; /* สีของกรอบ */
     border-radius: 8px; /* ขอบมน */
     transition: border 0.3s; /* เพิ่ม transition property */
 }
@@ -46,18 +46,18 @@ body {
     width: 200px;
     height: 60px;
     margin-top: 20px;
-    background-color: #f74e65;
-    color: #000000;
+    background-color: #a82738;
+    color: #18a362;
 }
 #BackWeb {
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100px; 
-    height: 40px; 
+    width: 200px; 
+    height: 60px; 
     text-align: center;
     background-color: rgb(104, 103, 103); /* เพิ่ม ; ที่หลัง rgb(204, 58, 58) */
-    color: #161616; 
+    color: #dad00f; 
     padding: 10px; 
 }
 #BackWeb:hover {
